@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a318521aeb375e5f0c914e7f",
+  "owner": "yynhkmfhy",
+  "repo": "page-c6f4b0ce07c32e52ce8750ab",
+  "title": "Flysocks",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c6f4b0ce07c32e52ce8750ab",
+      "a": "Flysocks",
+      "b": "2027官方最新地址导航",
+      "entity": "Flysocks",
+      "brand": "Flysocks",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0765903caef285bb5ba24e4a6bef2ba972bfde4a73a08a93dff2c083a006f175",
+      "content": {
+        "primary_entity": "Flysocks",
+        "keyword1": "Flysocks",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择适配客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的客户端配置订阅，即可开始使用 Flysocks 加速。",
+          "AI_CLOSING_TITLE": "开始使用",
+          "AI_DESCRIPTION": "，FlySocks 提供基础版、旗舰版和团队版三档套餐，分别覆盖每月 100GB、300GB 和 1000GB 流量，支持 3 台、5 台和 20 台设备同时在线。旗舰版包含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。按年付可节省费用，基础版年付 150 元，旗舰版 350 元，团队版 850 元。用户可依据设备数量和流量需求选择套餐，并在 Windows、macOS、Android、iOS 等客户端导入订阅。",
+          "AI_FEATURES_INTRO": "三档套餐对应不同设备数与流量需求。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，IPLC 专线优化游戏延迟，解锁全节点流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，VIP 高带宽节点与企业定制路由可满足多人协作。",
+          "AI_FEATURE_TITLE_1": "轻度使用",
+          "AI_FEATURE_TITLE_2": "性能进阶",
+          "AI_FEATURE_TITLE_3": "多人团队",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "FlySocks 海外加速器提供基础版、旗舰版和团队版三档订阅，分别适配个人轻度、性能进阶和多人团队场景。套餐覆盖每月 100GB 至 1000GB 流量，设备支持从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活适配多设备场景",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "对照流量、设备数和线路特性选择套餐，旗舰版与团队版提供更多高阶权益。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端版本和设备系统的要求，确认已满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端的订阅导入说明，将 FlySocks 订阅配置到设备。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "FlySocks 多设备加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版该怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合轻度浏览和单设备使用；如果需要在手机、平板和电脑多个设备间切换，并经常看流媒体，建议选旗舰版，它提供 300GB 流量、5 台设备和 IPLC 专线。",
+          "AI_FAQ_QUESTION_2": "年付和月付差别大吗？",
+          "AI_FAQ_ANSWER_2": "年付比按月购买更划算。基础版月付 ¥15，年付 ¥150/年；旗舰版月付 ¥35，年付 ¥350/年；团队版月付 ¥85，年付 ¥850/年。长期使用可以直接选择年付方案。",
+          "AI_FAQ_QUESTION_3": "可以多台设备同时使用吗？",
+          "AI_FAQ_ANSWER_3": "可以，但同时在线设备数由套餐决定。基础版允许 3 台，旗舰版允许 5 台，团队版允许 20 台。如果手机、电脑和平板需要同时连接，建议选择旗舰版或团队版。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后在客户端中按对应文档导入订阅信息即可，手机、电脑和路由器分别选择匹配的客户端。不同系统操作略有差异，可参考客户端内的配置说明完成导入。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备同时在线和 VIP 专属高带宽节点，并支持企业定制路由与专属客户经理服务，适合小型团队或需要多设备高流量使用的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zpjrutz.cn",
+    "host": "zpjrutz.cn"
+  },
+  "file_hashes": {
+    "index.html": "33c0fde031b1248311e911c2e86d5aead66581a6f8dd4779dfe2b2079c7201b1",
+    "sitemap.xml": "39642b68ba2e5c6641f96b9e0a78b98e63d438f6dea88ff1b609716a1e6fd7cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7494d01bc92886d026cd2418b6f0e8e6c2aaf79faf26f97f3b34b5c5c1fa5ad7",
+    "robots.txt": "363b45bc408572f9ccab9a0b618b43aff7de72a7f1a6abcbc42192353265e837",
+    "ca48c6878f6b45d129959d8e7841533c.txt": "2d2131d47393753b56167d330d1a3c13c3890478fdc0cb33811fd30d559ad033"
+  },
+  "revision": "f7de482a72143fed16b2212924ac366855d4599edfbe0228c6921102c0fc2e12"
+}
